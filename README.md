@@ -17,9 +17,9 @@ if the directory is cloned sucessfully type the command:
 
 followed by 
 
-> pip install -r requirements.txt
+> `pip install -r requirements.txt`
 > 
-> python UI.py
+> `python UI.py`
 
 this will open the following window.
 
